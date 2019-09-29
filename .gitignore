@@ -26,3 +26,4 @@ public/views/build
 
 public/uploads/*
 !public/uploads/.gitkeep
+yarn.lock
